@@ -20,11 +20,14 @@
   },
   "homepage": "https://github.com/mariamv29/food-festival#readme",
   "devDependencies": {
+    "file-loader": "^6.2.0",
     "webpack": "^5.52.0",
+    "webpack-bundle-analyzer": "^4.4.2",
     "webpack-cli": "^4.8.0"
   },
   "dependencies": {
     "bootstrap": "^4.6.0",
+    "image-webpack-loader": "^7.0.1",
     "jquery": "^3.4.1",
     "popper.js": "^1.16.1"
   }
