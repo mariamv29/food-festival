@@ -1,1 +1,2 @@
 node_modules/
+MONGODB_URI=mongodb+srv://Maria:b3A3iwSpbj2LwZUn#@cluster0.0dklx.mongodb.net/budget?retryWrites=true&w=majority
